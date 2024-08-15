@@ -1,4 +1,62 @@
 .header__hero {
-    position: relative;
+    padding: 30px 20px;
+}
+
+.header__hero-content {
+    padding: 50px 0;
+}
+
+.header__hero-title {
+    padding: 10px;
+    gap: 10px;
+}
+
+.header__hero-title-text {
+    font-size: 37px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0.2px;
     text-align: center;
+}
+
+.header__hero-subtitle {
+    padding: 10px;
+    gap: 10px;
+}
+
+.header__hero-subtitle-text {
+    text-align: center;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+}
+
+.header__hero-hidden-span {
+    display: none;
+}
+.header__hero-button {
+    text-align:center;
+}
+.header__hero-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2091F9;
+    color:white;
+    border-radius: 27px;
+    padding: 12px 0;
+    width: 180px;
+    height: 45px;
+    font-size:15px;
+    border: none;
+    border-radius: 40px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.header__hero-photo {
+    display:block;
+    content:url(https://github.com/voloshyyn/business-landing-page/blob/main/img/header-hero-photo.svg);
+    background-size:cover;
+    width:100%;
 }
