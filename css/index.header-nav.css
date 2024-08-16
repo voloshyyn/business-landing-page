@@ -1,0 +1,17 @@
+.header__nav {
+    height:78px;
+}
+.header__menu-list {
+    display:none;
+}
+.header__logo {
+    width:206;
+    height:78px;
+}
+.header__logo-img {
+    width:186px;
+    height:58px;
+}
+.header__social-list {
+    display:none;
+}
