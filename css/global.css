@@ -10,6 +10,11 @@
 body {
     scroll-behavior: smooth;
     font-family:"Montserrat", sans-serif;
+    color:#374754;
+
+}
+h1, h2, h3 {
+    color:#252B42
 }
 img {
     display:block;

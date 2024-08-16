@@ -9,8 +9,9 @@
     height:78px;
 }
 .header__logo-img {
-    width:186px;
-    height:58px;
+    width:50%;
+    height:70%;
+    padding:10px;
 }
 .header__social-list {
     display:none;

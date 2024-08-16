@@ -1,0 +1,53 @@
+.enticement {
+    padding: 30px 20px;
+}
+
+.enticement__text-content {
+    padding: 59px 10px;
+}
+
+.enticement__title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 55px;
+    letter-spacing: 0.2;
+    padding-bottom:15px;
+}
+
+.enticement__description {
+    padding-top:15px;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
+.enticement__hidden-span {
+    display: none;
+}
+.enticement__cta {
+    text-align:center;
+    padding-bottom:59px;
+}
+.enticement__link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2091F9;
+    color:white;
+    border-radius: 27px;
+    width: 236px;
+    height: 60px;
+    font-weight:700;
+    line-height: 28px;
+    letter-spacing: 0.1px;
+    font-size:20px;
+    border: none;
+    border-radius: 40px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.enticement__image-wrapper {
+    padding-bottom:59px;
+}
