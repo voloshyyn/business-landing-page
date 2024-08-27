@@ -1,16 +1,16 @@
 .header__nav {
-    height:78px;
+    height:60px;
 }
 .header__menu-list {
     display:none;
 }
 .header__logo {
     width:206;
-    height:78px;
+    height:60px;
 }
 .header__logo-img {
     width:50%;
-    height:70%;
+    height:80%;
     padding:10px;
 }
 .header__social-list {
