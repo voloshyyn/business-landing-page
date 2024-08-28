@@ -3,25 +3,38 @@
 *,
 *::after,
 *::before {
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
+
+:root {
+    --description-text: #374754;
+    --title-text: #252B42;
+    --form-color: #F4F4F4;
+    ;
+}
+
 body {
     scroll-behavior: smooth;
-    font-family:"Montserrat", sans-serif;
-    color:#374754;
+    font-family: "Montserrat", sans-serif;
+    color: var(--description-text);
 
 }
-h1, h2, h3 {
-    color:#252B42
+
+h1,
+h2,
+h3 {
+    color: var(--title-text);
 }
+
 img {
-    display:block;
-    width:100%;
+    display: block;
+    width: 100%;
 }
+
 .container {
-    max-width:1200px;
-    justify-content:space-between;
-    margin:auto;
+    max-width: 1200px;
+    justify-content: space-between;
+    margin: auto;
 }

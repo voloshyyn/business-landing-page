@@ -1,0 +1,121 @@
+.postcard {
+    padding: 61.5px 0;
+}
+
+.postcard__header {
+    padding-bottom: 46px;
+}
+
+.postcard__container {
+    padding:0 20px;
+}
+
+.postcard__content-wrapper {
+    padding: 10px 0;
+}
+
+.postcard__subtitle {
+    font-size: 15.5px;
+    font-weight: 700;
+    line-height: 21.5px;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: var(--title-text);
+}
+
+.postcard__title {
+    display: none;
+}
+
+.postcard__title-span {
+    font-size: 37px;
+    font-weight: 400;
+    line-height: 42.5px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    padding: 10px;
+}
+
+.postcard__title-decription-text {
+    padding: 10px;
+    font-size: 21.5px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
+
+.postcard__image-wrapper {
+    padding: 20px 5px;
+}
+
+.postcard__text-content {
+    padding-top: 46px;
+}
+
+.postcard__description-text {
+    font-size: 15.5px;
+    line-height: 21.5px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: var(--title-text);
+    padding: 0 10px 10px;
+}
+
+.postcard__availability {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
+
+.postcard__cta-wrapper {
+    padding: 24px 0;
+    text-align: center;
+}
+
+.postcard__form-wrapper {
+    padding-bottom: 12px;
+}
+
+.postcard__input {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--form-color);
+    color: black;
+    border-radius: 27px;
+    width: 272px;
+    height: 41.5px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.1px;
+    font-size: 11px;
+    border: none;
+    border-radius: 40px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: left;
+    padding: 14.5px 27px;
+}
+
+.postcard__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2091F9;
+    color: white;
+    border-radius: 27px;
+    width: 272px;
+    height: 41.5px;
+    font-weight: 400;
+    line-height: 15.5px;
+    letter-spacing: 0.1px;
+    font-size: 15.5px;
+    border: none;
+    border-radius: 40px;
+    text-decoration: none;
+    cursor: pointer;
+}
